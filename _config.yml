@@ -1,7 +1,7 @@
 source: .
 destination: ./_site
 includes: ./_includes
-baseurl: https://tianyuzhang.zantee.github.io
+baseurl: https://zantee.github.io
 
 collections:
   projects:
