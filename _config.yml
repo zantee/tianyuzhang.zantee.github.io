@@ -1,7 +1,7 @@
 source: .
 destination: ./_site
 includes: ./_includes
-baseurl: https://question406.github.io
+baseurl: https://tianyuzhang.zantee.github.io
 
 collections:
   projects:
